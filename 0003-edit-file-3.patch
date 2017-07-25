@@ -1,0 +1,21 @@
+From 4ad65fb8b5e929c9b07fa5a3795b25aa781da46c Mon Sep 17 00:00:00 2001
+From: Your Name <you@example.com>
+Date: Tue, 18 Jul 2017 21:26:20 +0700
+Subject: [PATCH 3/3] edit file 3
+
+---
+ folder/file3.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/folder/file3.txt b/folder/file3.txt
+index 873fb8d..119baa6 100644
+--- a/folder/file3.txt
++++ b/folder/file3.txt
+@@ -1 +1 @@
+-file3
+\ No newline at end of file
++file3 - edit file 3
+\ No newline at end of file
+-- 
+2.11.1.windows.1
+

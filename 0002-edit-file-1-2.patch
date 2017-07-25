@@ -1,0 +1,31 @@
+From 0cdca57cb0ee71cc085c9a03bfda2de8913dfdcc Mon Sep 17 00:00:00 2001
+From: Your Name <you@example.com>
+Date: Tue, 18 Jul 2017 21:24:41 +0700
+Subject: [PATCH 2/3] edit file 1, 2
+
+---
+ folder/file1.txt | 2 +-
+ folder/file2.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/folder/file1.txt b/folder/file1.txt
+index 9b90e98..38e7740 100644
+--- a/folder/file1.txt
++++ b/folder/file1.txt
+@@ -1 +1 @@
+-file1 --sua file 1
+\ No newline at end of file
++file1 --sua file 1: lan 2
+\ No newline at end of file
+diff --git a/folder/file2.txt b/folder/file2.txt
+index 0bfc1c9..1dc7a37 100644
+--- a/folder/file2.txt
++++ b/folder/file2.txt
+@@ -1 +1 @@
+-file2 -- sua file 2
+\ No newline at end of file
++file2 -- sua file 2: lan 2
+\ No newline at end of file
+-- 
+2.11.1.windows.1
+
