@@ -1,3 +1,6 @@
 [submodule "repository-kyokai"]
 	path = repository-kyokai
 	url = https://github.com/chinhvc93/git-learn.git
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/chinhvc93/git-learn.git
