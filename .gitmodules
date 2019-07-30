@@ -1,0 +1,3 @@
+[submodule "repository-kyokai"]
+	path = repository-kyokai
+	url = https://github.com/chinhvc93/git-learn.git
